@@ -562,17 +562,17 @@ However, the detection and alert generation worked correctly, demonstrating Wazu
 
 
 
-Task	                                                  Status
+Task	                                                        Status
 
 
 
-Brute Force Attack Simulation	                     ✅ Completed
+Brute Force Attack Simulation	                            ✅ Completed
 
-Authentication Failure Detection	             ✅ Completed
+Authentication Failure Detection	                        ✅ Completed
 
-Wazuh Alert Generation	                             ✅ Completed
+Wazuh Alert Generation	                                  ✅ Completed
 
-MITRE ATT\&CK Mapping	                             ✅ Completed
+MITRE ATT\&CK Mapping	                                    ✅ Completed
 
 
 
@@ -664,7 +664,7 @@ The simulated attacker activities were mapped to the following MITRE ATT\&CK tec
 
 
 
-Technique	                                           Description
+Technique	                                               Description
 
 T1059	                                     Command and Scripting Interpreter (PowerShell)
 
@@ -744,15 +744,15 @@ This workflow demonstrates how endpoint telemetry flows through the SIEM platfor
 
 ✅ Week 4 Outcome
 
-Task	                                                            Status
+Task	                                                               Status
 
-PowerShell Attack Simulation	                                ✅ Completed
+PowerShell Attack Simulation	                                   ✅ Completed
 
-Discovery Command Execution	                                ✅ Completed
+Discovery Command Execution	                                     ✅ Completed
 
-Wazuh Alert Detection	                                        ✅ Completed
+Wazuh Alert Detection	                                           ✅ Completed
 
-MITRE ATT\&CK Technique Mapping	                                ✅ Completed
+MITRE ATT\&CK Technique Mapping	                                 ✅ Completed
 
 
 
